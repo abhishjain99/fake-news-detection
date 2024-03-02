@@ -1,4 +1,8 @@
 # fake-news-detection
+
+Detecting fake news with Python with- a political dataset, a TfidfVectorizer implementation, PassiveAggressiveClassifier initialization, and fitting our model.<br>
+Accuracy => 93.16% in magnitude.
+
 <!-- #### Fake News--
 Tired of online rumors masquerading as truth?</b>
 We've all seen them - those outrageous headlines and social media posts that just reek of something fishy. That is the world of fake news.
